@@ -1,0 +1,21 @@
+#container{
+    margin:auto;
+    border:5px solid blueviolet;
+    font-size:30px;
+    padding:10px;
+    text-align:center;
+    height:560px;
+    width:900px;
+    background-color: goldenrod;
+  }
+  p{
+    color: black;
+  }
+  #userInput{
+    width:170px;
+    height:23px;
+  
+  }
+  #outputText{
+    color:red;
+  }
